@@ -24,7 +24,11 @@ The app tracks both hands simultaneously.
   *(Tip: Upon opening the app, extend your left thumb and index fully once to automatically calibrate the maximum brightness range to your current camera distance).*
 
 ---
+## 🚀 How to Run (download the .exe executable app from this below link)
 
+
+ https://drive.google.com/file/d/1P9He8XctYaFH0Uc5RlOl6JsfHH7zMulp/view?usp=drive_link
+ 
 ## 🚀 How to Run (Pre-built Executable)
 
 If you downloaded the pre-compiled release:
